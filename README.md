@@ -1,13 +1,15 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Meu Primeiro Aplicativo no React
+
+Nesta aplicação usamos HTML, CSS, Javascript e o React para criar tela de cadastro e outra de exibição das pessoas cadastradas com de idades e nome de pessoas [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
-
+### `yarn start`
+para rodar direto ro terminal VScode
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
